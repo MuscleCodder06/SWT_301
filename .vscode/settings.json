@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "Motobike-Thangnn/src/java"
+    ],
+    "java.project.testSourcePaths": [
+        "Motobike-Thangnn/test"
+    ],
+    "java.project.referencedLibraries": [
+        "Motobike-Thangnn/lib/*.jar"
+    ]
+}

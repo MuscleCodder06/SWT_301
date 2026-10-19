@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/jaxb-api-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/mssql-jdbc-13.4.0.jre11-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/jakarta.servlet.jsp.jstl-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/mssql-jdbc-13.4.0.jre11-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/jakarta.jakartaee-api-10.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/mssql-jdbc-13.4.0.jre11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/sqljdbc42.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/junit-jupiter-api-5.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/junit-jupiter-engine-5.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/junit-jupiter-params-5.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/junit-platform-commons-1.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/junit-platform-engine-1.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/opentest4j-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/apiguardian-api-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/junit-platform-launcher-1.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/mockito-core-5.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/mockito-junit-jupiter-5.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/byte-buddy-1.17.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/byte-buddy-agent-1.17.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Motobike-Thangnn/lib/objenesis-3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
